@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the valiant resolution of the famous prentices of London, with their protestation. Who are willing to adventure their lives and fortunes under his excellencie the Earle of Essex. For the honour of the King, the preservation of the priviledge of Parliament, the libertie of the subject, the good of the kingdome, and especially of the Citie of London. And for the maintenance of the Protestant religion, expelling all poperie, and the subduing of all the enemies of the true Church of England.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82240</idno>
+            <idno type="STC">Wing D774</idno>
+            <idno type="STC">Thomason E109_5</idno>
+            <idno type="STC">ESTC R8182</idno>
+            <idno type="EEBO-CITATION">99873245</idno>
+            <idno type="PROQUEST">99873245</idno>
+            <idno type="VID">125708</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82240)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125708)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 19:E109[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the valiant resolution of the famous prentices of London, with their protestation. Who are willing to adventure their lives and fortunes under his excellencie the Earle of Essex. For the honour of the King, the preservation of the priviledge of Parliament, the libertie of the subject, the good of the kingdome, and especially of the Citie of London. And for the maintenance of the Protestant religion, expelling all poperie, and the subduing of all the enemies of the true Church of England.</title>
+               </titleStmt>
+               <extent>[2], 5 [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Banks,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "4th August".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Essex, Robert Devereux, --  Earl of, 1591-1646.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125708:1"/>
+            <pb facs="tcp:125708:1" rendition="simple:additions"/>
+            <p>A DECLARATION OF The valiant Reſolution of the Famous Prentices of <hi>London,</hi> With their Proteſtation.</p>
+            <p>Who are willing to adventure their lives and fortunes under his Excellencie the Earle of ESSEX.</p>
+            <p>For the honour of the King, the preſer<g ref="char:EOLhyphen"/>vation of the priviledge of Parliament, the libertie of the Subject, the good of the Kingdome, and eſpecially of the Citie of <hi>London.</hi>
+            </p>
+            <p>And for the maintenance of the Prote<g ref="char:EOLhyphen"/>ſtant Religion, expelling all Poperie, and the ſubduing of all the enemies of the true Church of <hi>England.</hi>
+            </p>
+            <p>LONDON, Printed for <hi>Thomas Banks,</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:125708:2"/>
+            <pb n="1" facs="tcp:125708:2"/>
+            <head>The valiant Reſolution of the Pren<g ref="char:EOLhyphen"/>tices of <hi>London.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He famous Citie of <hi>London</hi> hath ever beene fruitfull in noble and heroike Spirits, who have performed wonders of magnanimitie and valour in forraine parts, to the everlaſting honour and glorie of their Countrey, and at home what a numerous Army, conſiſting of many expert and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>riſhing Trained Bands can it produce? whoſe skill and courage equally marching together, doth with the ar<g ref="char:EOLhyphen"/>tificiall thunder of ſhot, out the Heavens into a trembling amazement, and with the report thereof ſtrike a terrour into the remoteſt Courts of <hi>Iupiter,</hi> though farther diſtant in the skies by many miles, than <hi>York</hi> from <hi>London.</hi> How therefore can any ſuppoſition of feare be grounded on any malignant partie now prevailing with the King to raiſe Armes in the North? the Papiſts ſo maliciouſly affected to the Proteſtant Religion, joyne with temerarious and raſh Noble-men, in proſecuting a civill war. Theſe gather unto them the decayed Gentrie of ſeverall Countries, who ha<g ref="char:EOLhyphen"/>ving by prodigalitie, exceſſe, ryot, and horſe-races, run their fathers eſtates out of breath, thinks hereby to reno<g ref="char:EOLhyphen"/>vate their eſtates, and unite themſelves to the reſt, to make their Forces ſtronger, add to thoſe Delinquents and roring Cavaliers, who like <hi>Nero,</hi> would ſing to behold, their Coun<g ref="char:EOLhyphen"/>trey ſuffering in the martyrdome of a civill war, and with this heterogeneous confuſed Crew, decayed and indebted perſons, are ranked together, with a multitude of drunken idle people, and giddy brain'd Gentlemen; and laſtly, the ambitious Clergie, who that they may ſtill have pluralitie of Benefices, uſe their tongues to ſow diſſention, and give
+<pb n="2" facs="tcp:125708:3"/>an edge to the Souldiers ſwords. All thoſe, and many o<g ref="char:EOLhyphen"/>ther ſorts of perſons, for their owne ſakes and ſafeties; and to further their-owne penicious purpoſes, or at leaſt to ſe<g ref="char:EOLhyphen"/>cure themſelves from condigne puniſhment, are all wil<g ref="char:EOLhyphen"/>ling, under the faire pretence of defending the Kings right and prerogative, to joyne together in making one entire body of a civill war, and after the Siege of <hi>Hull,</hi> which is firſt attempted, to ſet the whole Kingdome in a combuſti<g ref="char:EOLhyphen"/>on, or <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inate the Countrey, beſiege <hi>London,</hi> extirpate the Proteſtant Religion, introduce Poperie, ſo much deſired by the Malignant Partie, and work ſuch a lamentable Tra<g ref="char:EOLhyphen"/>gedy, as was never knowne in any Kings raigne of <hi>Eng<g ref="char:EOLhyphen"/>land.</hi> This ſtorme, thus long a gathering in the Northerne parts, is ready now to fall downe in an impetuous ſhowre of bloud: the Kings defenſive Guard being multiplyed in<g ref="char:EOLhyphen"/>to a great Army, collected and compounded of malicious Papiſts, raſh unadviſed Proteſtant Noble-men, decayed Gentlemen, indebted common people, doubtfull Delin<g ref="char:EOLhyphen"/>quents, looſe debauched perſons, rattle-headed giddy<g ref="char:EOLhyphen"/>brain'd Gentlemen, roring Cavaliers, and factious Clergy<g ref="char:EOLhyphen"/>men, whoſe Sermons bid them <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight for their owne prefer<g ref="char:EOLhyphen"/>ment and glorie, not for the King and Gods glorie, though that bee made the colourable motive and occaſion of the war.</p>
+            <p>Now the wiſdome of the <hi>Parliament</hi> and the Citie of <hi>London,</hi> ſeeing that the King will in hoſtile manner wound his honour and reputation, through his Subjects, and that their many petitions cannot prevaile with him, to diſmiſſe thoſe evill Counſellours of the Malignant Partie, but doth ſuffer them to put in action their owne plots and deſignes, under his royall name and ſtandard, to the deſtruction of the Kingdome, the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bertie of the Subjects, and the over<g ref="char:EOLhyphen"/>throwing the privileges of Parliament, they with much un<g ref="char:EOLhyphen"/>willingneſſe being provoked and irritated thereunto, to vindicate their cleare intentions to the King, have raiſed Forces for the ſafetie of the Kings Majeſtie, the defence of
+<pb n="3" facs="tcp:125708:3"/>the Kingdome<g ref="char:punc">▪</g> the preſervation of the diſtreſſed and be ſieged towne of <hi>Hull,</hi> and in this Army by them, to thoſ juſt and legall ends levied, there are eight thouſand brave-ſpirited young men, being all Apprentices, who deſerve to be regiſtred in Fames eternall Records; for ſeeing their Countrey is thus like to be engaged in a civill war, and that Poperie is like to be introduced in ſtead of Proteſtantiſme, ſlaverie in ſtead of libertie, and a generall deſtruction indu<g ref="char:EOLhyphen"/>ced into the whole eſtate of the Kingdome, are with much alacritie and cheerfulneſſe reſolved, to the utmoſt hazard of their lives, to oppoſe and reſiſt the Malignant Parties Armie, conſiſting of Papiſts, and many others formerly mentioned.</p>
+            <p>Theſe martiall &amp; valiant <hi>Apprentices</hi> that do thus expoſe themſelves to danger for the good of their Country, to the qualities, conditions, and intents of the perſons in the malig<g ref="char:EOLhyphen"/>nant Army, for theſe Prentices earneſtly deſire the proſpe<g ref="char:EOLhyphen"/>rity of the Kingdome, and the honour of the King; and will truly with the beſt bloud in their bodyes maiintaine the true Proteſtant Religion, againſt the malignant enemies of the truth, carrying in their breſts loyall hearts to their Country. King and Parliament, and intending their ſervice onely for the ſafety and honour of His Majeſtie, and the glory of God, confident in good ſucceſſe, marching on as cheerfull as if it were their marriage day, and that victor<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſhould be their happy Bride. Neither are they of the ba<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> and mechanick ſcum of the people, who to ſupport them<g ref="char:EOLunhyphen"/>ſelves in a riotous faſhion, and to pillage the Country, un<g ref="char:EOLhyphen"/>der the name of being Souldiers, doe without feare or any conſcionable reſpect, take pay, and enter into ſervice, but the greater part of thoſe magnanimous Prentices, are ſer<g ref="char:EOLhyphen"/>vants to honeſt and ſufficient Men, and by their owne ho<g ref="char:EOLhyphen"/>neſt laborious endeavours can be both ſerviceable and pro<g ref="char:EOLhyphen"/>fitable to their Maſters, and be very beneficiall to them, in working at their Trades, but their Maſters preferring the publike good before their private profit &amp; commodity, re<g ref="char:EOLhyphen"/>ſiſt
+<pb n="4" facs="tcp:125708:4"/>not the willingneſſe of their ſervants, but do give them free and faire leave according to their owne deſires, to do lawfull ſervice to their King and Country, being perſwa<g ref="char:EOLhyphen"/>ded thereunto not through neceſſity, but animated with the noble deſire of renowned honour. Neither are they looſe idle fellowes that are faine to make war their profeſſion, for want of other maintenance, for all theſe Prentices as was aforeſaid, have Trades and Callings, and moſt of them young men of good parentage; whoſe friends live honeſt<g ref="char:EOLhyphen"/>ly and thriftily in the Country, and yet as if they all de<g ref="char:EOLhyphen"/>ſcended of generous bloud: their mindes are ſo enlarged, and their <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>courages ſo magnanimouſly advanced, that no<g ref="char:EOLhyphen"/>thing can contayne them from putting their Reſolution in execution, and are determined by this their unexpected expreſſes of valour, in ſo young yeares to advance their owne fame, and bring honour and renown to the City of <hi>London.</hi>
+            </p>
+            <p>Beſides theſe young ſons of <hi>Mars,</hi> or Martiall Prenti<g ref="char:EOLhyphen"/>ces, greeving to ſee how the King hath beene miſled with falſe Counſellours to reſiſt the loving loyallty of his Parli<g ref="char:EOLhyphen"/>ament, and to raiſe forces in the North, in ſtead of a defen<g ref="char:EOLhyphen"/>ſive guard, they living here in <hi>London</hi> and being dayly eare witneſſes of the Parliaments legall and juſt proceedings, and knowing to be the baſis or foundation whereon the ſtructure and building of the Common wealth muſt ſtand or fall, they perceiving now that through the inſtigation of the malignant party, thoſe forces are levyed and levelled a<g ref="char:EOLhyphen"/>gainſt the Parliament, which is the defenſive wall of the Kingdome, theſe noble minded Prentices, freely and volun<g ref="char:EOLhyphen"/>tery offer their ſervices to maintaine the Parliament a<g ref="char:EOLhyphen"/>gainſt the oppoſers therof, knowing the preſervation ther<g ref="char:EOLhyphen"/>of is in the power and prerogatives belonging thereunto, will conduce to the Kings honour, the Kingdomes ſafety, and the proſperity of the City of <hi>London.</hi>
+            </p>
+            <p>If therefore the end, moving to the undertaking of any action, deſerve praiſe and commendations, eſpecially the
+<pb n="5" facs="tcp:125708:4"/>neceſſity of the time requiring the ſudden an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>xiliary forces be ſent to oppoſe and ſtay the fury of civill diſſention and the flame of a deſtructive war, breaking forth in the heart of the Kingdome, how ought the City of <hi>London</hi> to magnifie and applaud the hopefull ſtout Reſolutions of theſe 8 thou<g ref="char:EOLhyphen"/>ſand magnanimous Prentices, that go to defend the Privi<g ref="char:EOLhyphen"/>ledges of Parliament, againſt the Tyranny of an arbitrary government: theſe Prentices that march forth to preſerve the Kings honour, and to prevent our owne miſery, theſe Prentices that with unanimous and couragious hearts, go to ſuccour the diſtreſſed Towne of <hi>Hull,</hi> and daunt the preſu<g ref="char:EOLhyphen"/>ming Cavaliers. And laſtly, theſe Prentices that make their Religion the object and cauſe of their confidence, in main<g ref="char:EOLhyphen"/>tayning whereof it may be ſayd, <hi>Mors omnibus l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>crum,</hi> death is a gaine to all, and in this cauſe, this quarrell thus animated, and thus reſolved, theſe Heroick Prentices are now going forward to fight for Gods glory, their Sove<g ref="char:EOLhyphen"/>reignes honour and the defence of the Lawes, and liber<g ref="char:EOLhyphen"/>ties of the Kingdome, being led on by His Excellencye the Earle of <hi>Eſſex,</hi> in whom by his a ſtable and courtuous ſpeeches, they do very much confide. And doubt not but under his proſperous conduct by the propitious favour of God, to behave themſelves in ſuch a valiant manner that it ſhall redound to the honour of the City of <hi>London,</hi> they having with many acclamations of joy acknowledged their willingneſſe to ſome under His Excellence, deſiring nothing but the prayer of this honourable City, for their happy and proſperous ſucceſſe in this their noble Expedition and Reſo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap>.</p>
+         </div>
+         <div type="approbation">
+            <pb facs="tcp:125708:5"/>
+            <head>The approbation of both Houſes</head>
+            <p>THe Lords and Commons in Parliament aſſembled, be<g ref="char:EOLhyphen"/>ing advertiſed by the Lord Lievtenant, and Deputy Lievtenants of the County of <hi>Eſſex,</hi> of their ready, full, and forward meeting of the Trayn-Bands of that Country; and of a cheerfull acceſſe, of a very conſiderable number of Voluntiers at their firſt appearing, Have thought ſit to <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>preſſe unto them, the good ſence they hold of their procee<g ref="char:EOLhyphen"/>dings, ſo much conducing to the generall ſafety of this Kingdome; And having likewiſe received from them a Declaration full of affections, and good inclinations, to maintaine our Religion, Lawes, Liberties, and Priv<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ges of Parliament; Which they obſerve to be invaded by per<g ref="char:EOLhyphen"/>nicious Counſell, as indeed they have beene of late, in a more dangerous and high manner than any age can pa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>al<g ref="char:EOLhyphen"/>lell,: And having very prudently obſerved in a right under<g ref="char:EOLhyphen"/>ſtanding, That the Kingdome, and the Kings authority, and Perſon, can be no wayes maintained, but by the upholding the Power and Priviledges of Parliament; as by the late Proteſtation they acknowledge themſelves bound unto, a<g ref="char:EOLhyphen"/>gainſt all contrary Counſels, Power, and force of Armes whatſoever. This juſt and faithfull Reſolution of theirs, to the publike good; The Lords and Commons do not one<g ref="char:EOLhyphen"/>ly approve, but commend, aſſuring them, that as their en<g ref="char:EOLhyphen"/>deavours have beene for the peace and happineſſe of the King and Kingdome; So they will perſiſt in charge of the great and publike truſt, which lies upon them; to go through all difficulties which may oppoſe the publike peace and welfare of this Kingdome: And will upon all occaſions be ready to expreſſe particularly, to thoſe perſons from who<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> they have received ſuch aſſurance of their affections and fi<g ref="char:EOLhyphen"/>delities.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
